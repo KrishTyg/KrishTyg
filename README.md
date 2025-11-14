@@ -1,4 +1,4 @@
-# Hi there! I'm Krisgh
+# Hi there! I'm Krish
 Product Analyst building skills in data analysis and business insights.
 
 ## What I'm Learning
